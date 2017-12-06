@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.14
+%Locale:0x404
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMingStd-Light
+FamilyName:Adobe Ming Std
+StyleName:L
+FullName:Adobe Ming Std L
+MenuName:Adobe 明體 Std L
+StyleBits:0
+FamilyNameNative:Adobe 明體 Std
+StyleNameNative:L
+FullNameNative:Adobe 明體 Std L
+WritingScript:TraditionalChinese
+OutlineFileName:D:\子惠\B-1060606_佛經\封裝\上卷\佛經上卷_七頁_上卷_V7_全 檔案夾\Document fonts\AdobeMingStd-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:10174452
+FileModTime:1329277946
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\子惠\B-1060606_佛經\封裝\上卷\佛經上卷_七頁_上卷_V7_全 檔案夾\Document fonts\Helvetica.ttf
+DataFormat:sfntData
+FileLength:83644
+FileModTime:904655444
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

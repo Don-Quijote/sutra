@@ -1,0 +1,99 @@
+ADOBE INDESIGN 的服務供應商報告列印指示
+
+出版物名稱: 佛經内頁_上卷_v3.indd
+
+封裝日期: 2017/11/14 上午 09:59
+建立日期: 2017/11/14
+修改日期: 2017/11/14
+
+聯絡資訊
+
+公司名稱: 
+聯絡人: 
+地址: 
+
+
+
+
+
+電話: 
+傳真: 
+電子郵件: 
+
+特別指示與其他註解
+
+
+
+
+
+
+外部增效模組 0
+非不透明的物件: 頁面1, 2, 3, 4, 12, 63
+
+個字體
+14 個使用的字體; 0 遺失, 0 個內嵌, 0 個不完整, 0 套受保護的
+
+個未封裝的字體
+- 名稱: ARFangSongB5-Light; 類型: OpenType CID, 狀態: 確定
+- 名稱: ARHeiB5-Bold; 類型: OpenType CID, 狀態: 確定
+- 名稱: ARHeiB5-Light; 類型: OpenType CID, 狀態: 確定
+- 名稱: ARHeiB5-Medium; 類型: OpenType CID, 狀態: 確定
+- 名稱: AdobeMingStd-Light; 類型: OpenType CID, 狀態: 確定
+- 名稱: DFKuoTaiBeiStd-W4; 類型: OpenType CID, 狀態: 確定
+- 名稱: StdMingZuinn1EG-Eb; 類型: TrueType, 狀態: 確定
+- 名稱: StdMingZuinn2EG-Eb; 類型: TrueType, 狀態: 確定
+- 名稱: StdMingZuinn5EG-Eb; 類型: TrueType, 狀態: 確定
+- 名稱: StdMingZuinnEG-Eb; 類型: TrueType, 狀態: 確定
+- 名稱: StdsungEG-Extra-Big5; 類型: TrueType, 狀態: 確定
+- 名稱: StdsungEG-Heavy-Big5; 類型: TrueType, 狀態: 確定
+個已封裝的字體
+- 名稱: Helvetica; 類型: TrueType, 狀態: 確定
+- 名稱: Wingdings-Regular; 類型: OpenType TrueType, 狀態: 確定
+
+
+顏色與油墨
+4 個印刷油墨; 0 個特別色油墨
+
+- 名稱與類型: 印刷青色; 角度: 15.000; 行/英寸: 60.000
+- 名稱與類型: 印刷洋紅色; 角度: 75.000; 行/英寸: 60.000
+- 名稱與類型: 印刷黃色; 角度: 0.000; 行/英寸: 60.000
+- 名稱與類型: 印刷黑色; 角度: 45.000; 行/英寸: 60.000
+
+
+連結與影像
+(僅遺失與嵌入的連結)
+連結與影像: 25 個找到的連結; 0 個修改過的影像, 0 遺失 0 無法存取
+影像: 0 個內嵌, 10 個使用 RGB 色域
+
+
+列印設定
+PPD: HP Universal Printing PS, (HP 5100)
+列印到: 印表機
+份數: 1
+Reader 的跨頁: 否
+偶數/奇數頁: 兩者
+頁面: 全部
+校樣: 否
+並排: 無
+縮放: 100%, 100%
+頁面位置: 置中
+列印圖層: 可見和可列印圖層
+印表機標記: 無
+出血: 3 公釐, 3 公釐, 3 公釐, 3 公釐
+顏色: 複合 CMYK
+補漏白模式: 無
+傳送影像資料: 最佳化次取樣
+OPI/DCS 影像取代: 否
+頁面大小: 自訂: 210 公釐 x 264 公釐
+紙張尺寸: 209.903 公釐 x 297.039 公釐
+方向: 縱向
+負片: 否
+翻轉模式: 關閉
+
+
+檔案封裝清單
+
+1. 佛經内頁_上卷_v3.indd; 類型: Adobe InDesign 出版物; 大小: 0K
+2. AdobeMingStd-Light.otf; 類型: 字體檔案; 大小: 9935K
+3. Helvetica.ttf; 類型: 字體檔案; 大小: 81K
+4. wingding.ttf; 類型: 字體檔案; 大小: 81K
